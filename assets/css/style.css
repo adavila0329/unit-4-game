@@ -1,0 +1,36 @@
+body{
+    width: 960px;
+}
+
+.titleHeader{
+    height: 200px;
+    width: 400px;
+    background-color: orange;
+    display: table-cell;
+    vertical-align: middle;
+    text-align:center;
+    color: white; 
+    font-size: 50px;
+}
+#wrapper{
+   margin: 35px auto auto 20px;
+}
+#instructions{
+    margin: 20px auto auto 15px;
+    width: 600px;
+    height: 500px;
+    background-color: tan;
+}
+
+#Row3{
+    margin: 35px auto auto 20px;
+    width: 500px;
+    height: 250px;
+    background-color: orange;
+}
+
+.numBox{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
