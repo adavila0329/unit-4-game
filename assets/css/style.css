@@ -23,14 +23,30 @@ body{
 }
 
 #Row3{
-    margin: 35px auto auto 20px;
-    width: 500px;
+    margin: 35px 0 0 10px;
+    width: 600px;
     height: 250px;
     background-color: orange;
 }
 
 .numBox{
-    width: 100px;
-    height: 100px;
+    width: 55%;
+    height: 100%;
+    float: left;
     background-color: blue;
+}
+
+.winLose{
+    width: 40%;
+    height: 100px;
+    float: right;
+    background-color: black; 
+}
+
+#gameButtons{
+    width: 35px auto auto 10px;
+    height: 100%;
+    background-color: blue;
+    margin: 0 10px 0 10px;
+    float: left;
 }
